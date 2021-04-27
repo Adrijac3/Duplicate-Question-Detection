@@ -7,5 +7,6 @@ Articles on duplicate question detection:
 * https://www.kaggle.com/amanmiglani12/quora-question-pair
 * https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1174/reports/2759336.pdf (Deep learning paper)
 * https://colah.github.io/posts/2015-08-Understanding-LSTMs/ (LSTM THEORY)
+* https://www.kaggle.com/currie32/predicting-similarity-tfidfvectorizer-doc2vec (data cleaning in cell 9)
 ### Dataset download link
 * https://www.kaggle.com/c/quora-question-pairs/data
